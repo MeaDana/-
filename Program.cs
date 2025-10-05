@@ -1,6 +1,3 @@
-﻿// Bellman-Ford и Dijkstra на C#
-// Увеличено количество вершин и плотность графа для измеримого времени выполнения
-
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -199,3 +196,4 @@ class Program
         Console.WriteLine("\nПрограмма завершена");
     }
 }
+
